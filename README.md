@@ -6,7 +6,7 @@
 
 <p align="center"><b>How does a fire extinguisher work?</b><br>A fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.</p>
 
-<p align="center"><a href="https://glassbox.how/extinguisherclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/extinguisherclear/">Read the 60-second explainer</a></p>
+<p align="center"><a href="https://glassbox.how/extinguisherclear/"><b>▶ Play with it</b></a> &nbsp;·&nbsp; <a href="https://glassbox.how/e/extinguisherclear/">Read the 60-second explainer</a> &nbsp;·&nbsp; <a href="https://glassbox.how/extinguisherclear/glassbox/reel.mp4">Watch the 40-second video</a></p>
 
 <p align="center">
   <a href="https://glassbox.how/e/extinguisherclear/"><img alt="Glassbox No. 165" src="https://img.shields.io/badge/Glassbox-No.%20165-8ef0ff"></a>
@@ -65,9 +65,14 @@ Made with the Glassbox studio from this box's storyboard (`window.glassbox.direc
 
 | File | What | Size |
 |---|---|---|
+| [`glassbox/reel.mp4`](https://glassbox.how/extinguisherclear/glassbox/reel.mp4) | Reel / Short, with captions and soundtrack | 1080×1920 |
+| [`glassbox/video.mp4`](https://glassbox.how/extinguisherclear/glassbox/video.mp4) | YouTube video, with captions and soundtrack | 1920×1080 |
 | `glassbox/slide-1…10.jpg` | Instagram carousel | 1080×1350 |
 | `glassbox/thumb.jpg` | YouTube thumbnail | 1280×720 |
 | `glassbox/cover.jpg` | Share card and repo social preview | 1200×630 |
+| [`glassbox/history-reel.mp4`](https://glassbox.how/extinguisherclear/glassbox/history-reel.mp4) | “History in 10 moments” Reel / Short | 1080×1920 |
+| `glassbox/history-slide-*.jpg` | History carousel | 1080×1350 |
+| `glassbox/post.json` | Post copy and schedule used by the publish kit | |
 
 ## Privacy
 

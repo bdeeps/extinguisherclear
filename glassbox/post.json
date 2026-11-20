@@ -1,0 +1,126 @@
+{
+  "slug": "extinguisherclear",
+  "box": 165,
+  "question": "How does a fire extinguisher work?",
+  "url": "https://glassbox.how/e/extinguisherclear/",
+  "app": "https://glassbox.how/extinguisherclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,300 years from a Greek force pump to a red cylinder you can find in the smoke.\n\n270 BCE: A pump that throws a jet\n1723: The first patent for a fire extinguisher\n1816: The Extincteur: a portable pressurised vessel\n1866: Soda and acid make their own pressure\n1871: The Harden Star grenade\n1904: Foam for oil fires\n\nThe full story, with 32 moments, sources and charts: glassbox.how/e/extinguisherclear/history (link in bio)\n\nThen play with how it works: glassbox.how/extinguisherclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fireextinguisher #firesafety #firetriangle #pressure #boyleslaw #carbondioxide #history",
+      "youtube": {
+        "title": "The history of the fire extinguisher in 45 seconds #shorts",
+        "description": "2,300 years from a Greek force pump to a red cylinder you can find in the smoke.\n\n270 BCE · A pump that throws a jet (Ctesibius)\n1723 · The first patent for a fire extinguisher (Ambrose Godfrey)\n1816 · The Extincteur: a portable pressurised vessel (George William Manby)\n1866 · Soda and acid make their own pressure (François Carlier)\n1871 · The Harden Star grenade (S. F. Harden and Co.)\n1904 · Foam for oil fires (Aleksandr Loran)\n\n▶ Full history: https://glassbox.how/e/extinguisherclear/history/\n▶ Play with it: https://glassbox.how/e/extinguisherclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a fire extinguisher work?\n\nA fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.\n\n→ A fire extinguisher is a steel bottle of agent with gas squeezed in above it.\n→ Pull the pin, squeeze the lever, and the gas pushes the agent up a tube and out.\n→ A fire needs fuel, oxygen, heat and a chain reaction. Take away any one and it dies.\n→ P.A.S.S. Pull the pin. Aim low, at the base of the fire, where the fuel is.\n→ Squeeze, and sweep side to side. Flames are only gas rising from fuel, so the base is what counts.\n\nPlay with it yourself. It's free and open source: glassbox.how/extinguisherclear (link in bio)\n\nBox No. 165 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fireextinguisher #firesafety #firetriangle #pressure #boyleslaw #carbondioxide #drypowder #fireclasses #chemistry",
+    "carousel": "Swipe through: How does a fire extinguisher work?\n\nA fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.\n\nSave this for later, then play with the interactive version at glassbox.how/extinguisherclear (link in bio).\n\nBox No. 165 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fireextinguisher #firesafety #firetriangle #pressure #boyleslaw #carbondioxide",
+    "youtube": {
+      "title": "How does a fire extinguisher work? #shorts",
+      "description": "A fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.\n\n▶ Play with it: https://glassbox.how/e/extinguisherclear/\n⌘ Source code (MIT): https://github.com/bdeeps/extinguisherclear\n\nBox No. 165 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a fire extinguisher work? (interactive explainer)",
+      "description": "A fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.\n\n▶ Play with the interactive version: https://glassbox.how/e/extinguisherclear/\n⌘ Source code (MIT): https://github.com/bdeeps/extinguisherclear\n\nIn this video:\n• A bottle of gas pushing on an agent. A stored-pressure extinguisher is a cylinder with the agent (water, foam or powder) at the bottom and nitrogen or dry air above it at about 12 to 15 bar.\n• A fire needs four things. The fire triangle is fuel, oxygen and heat.\n• PASS: aim at the base. Pull the pin, Aim at the base, Squeeze the lever, Sweep side to side.\n• The wrong extinguisher makes it worse. Fires are sorted by fuel: A solids, B liquids, C gases, D metals, F cooking oil (K in the US).\n• CO₂: a liquid that boils into snow. A CO₂ extinguisher holds liquid carbon dioxide at its own vapour pressure: about 57 bar at 20 °C and 35 bar at 0 °C.\n• Ready when you need it. The gauge needle should sit in the green.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a fire extinguisher work?\n\nA fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs.\n\nPlay with it: https://glassbox.how/e/extinguisherclear/",
+    "linkedin": "How does a fire extinguisher work?\n\nA fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.\n\n1. A bottle of gas pushing on an agent\n2. A fire needs four things\n3. PASS: aim at the base\n4. The wrong extinguisher makes it worse\n5. CO₂: a liquid that boils into snow\n6. Ready when you need it\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 165 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/extinguisherclear/\nCode: https://github.com/bdeeps/extinguisherclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-20T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-20T12:28:38.068Z"
+}
