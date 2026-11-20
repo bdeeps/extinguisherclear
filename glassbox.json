@@ -1,0 +1,110 @@
+{
+  "slug": "extinguisherclear",
+  "box": 165,
+  "date": "2026-10-10",
+  "title": "ExtinguisherClear",
+  "question": "How does a fire extinguisher work?",
+  "hook": "A fire extinguisher is a steel bottle of gas pushing on an agent, and the agent only works because it removes one of the four things a fire needs. Pull the pin, learn why you aim at the base, and see why water on cooking oil makes a fireball.",
+  "thumbText": "HOW EXTINGUISHERS WORK",
+  "field": "chemistry",
+  "minutes": 14,
+  "tags": [
+    "fire extinguisher",
+    "fire safety",
+    "fire triangle",
+    "pressure",
+    "Boyle's law",
+    "carbon dioxide",
+    "dry powder",
+    "fire classes",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A bottle of gas pushing on an agent",
+      "text": "A stored-pressure extinguisher is a cylinder with the agent (water, foam or powder) at the bottom and nitrogen or dry air above it at about 12 to 15 bar. Squeeze the lever and the gas pushes the agent up a dip tube, along the hose and out of the nozzle. As the agent leaves, the gas gets more room and its pressure falls (Boyle's law), so the jet weakens. A water extinguisher lasts about a minute, a powder one about 20 seconds."
+    },
+    {
+      "title": "A fire needs four things",
+      "text": "The fire triangle is fuel, oxygen and heat. Fire engineers add a fourth corner, the chain reaction inside the flame. Take away any one and the fire dies. Water mostly removes heat: warming a litre and boiling it away absorbs about 2.6 MJ. CO₂ pushes oxygen away. Foam keeps fuel vapour apart from the air. Dry powder breaks the chain reaction. Wet chemical cools hot cooking oil and turns the top into soap."
+    },
+    {
+      "title": "PASS: aim at the base",
+      "text": "Pull the pin, Aim at the base, Squeeze the lever, Sweep side to side. Flames are only burning gas rising from the fuel, so agent thrown at the flames flies through them. The stream is a thin beam, and flames creep back across any strip you skip. Gravity and air drag bend the jet, so range is a few metres: stand about two metres back, and leave if it is not winning."
+    },
+    {
+      "title": "The wrong extinguisher makes it worse",
+      "text": "Fires are sorted by fuel: A solids, B liquids, C gases, D metals, F cooking oil (K in the US). Water on cooking oil sinks, flashes to steam more than 1,700 times its volume and throws burning oil in a fireball. Water on petrol spreads it. Water on a live appliance carries current. Water on burning magnesium makes hydrogen. Check the label for the classes it is rated for."
+    },
+    {
+      "title": "CO₂: a liquid that boils into snow",
+      "text": "A CO₂ extinguisher holds liquid carbon dioxide at its own vapour pressure: about 57 bar at 20 °C and 35 bar at 0 °C. While any liquid is left, the pressure depends only on temperature, so a gauge cannot show how full it is and the cylinder is weighed instead. Released, the liquid boils into freezing gas and snow, about 540 litres of gas per kilogram. Never hold the horn."
+    },
+    {
+      "title": "Ready when you need it",
+      "text": "The gauge needle should sit in the green. Low gas means a short, weak spray even from a full cylinder, and a slow leak is a common failure. Gas pressure also follows temperature. A broken tamper seal means it may have been used. Typical practice is a monthly look, a yearly service by a competent person and a deeper overhaul and pressure test every 5 to 12 years. Check your local rules."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Agent",
+      "def": "The stuff in an extinguisher that puts the fire out: water, foam, powder, CO₂ or a wet chemical."
+    },
+    {
+      "term": "Stored pressure",
+      "def": "A design where the agent and its pushing gas are sealed in one cylinder from the day it is filled."
+    },
+    {
+      "term": "Dip tube",
+      "def": "The pipe from the valve nearly to the bottom, so the gas pushes the agent up and out."
+    },
+    {
+      "term": "Boyle's law",
+      "def": "At constant temperature, a gas's pressure times its volume stays the same."
+    },
+    {
+      "term": "Fire tetrahedron",
+      "def": "Fuel, oxygen, heat and the chain reaction: the four things a flame needs together."
+    },
+    {
+      "term": "PASS",
+      "def": "Pull the pin, Aim at the base, Squeeze the lever, Sweep side to side."
+    },
+    {
+      "term": "Fire class",
+      "def": "A label by fuel: A solids, B liquids, C gases, D metals, F cooking oil (K in the US)."
+    },
+    {
+      "term": "Vapour pressure",
+      "def": "The pressure a liquid's own vapour makes in a closed container, rising steeply with temperature."
+    },
+    {
+      "term": "Tamper seal",
+      "def": "A thin tie through the pin that breaks when the pin is pulled."
+    },
+    {
+      "term": "Hydrostatic test",
+      "def": "Filling the empty cylinder with water at high pressure to prove the metal is still strong enough."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "extinguisherclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

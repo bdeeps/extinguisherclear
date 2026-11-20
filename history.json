@@ -1,0 +1,335 @@
+{
+  "title": "The history of the fire extinguisher",
+  "tagline": "2,300 years from a Greek force pump to a red cylinder you can find in the smoke.",
+  "intro": "Putting out a fire means taking away its fuel, its heat, its air, or the reactions that keep it going. For centuries people could only throw water at it. Then inventors began to bottle the answer: gunpowder barrels, pearl-ash solutions, acid and soda, foam, gas and powder. Each new agent solved one kind of fire and sometimes made another kind worse. Standards, colour codes and a treaty on the ozone layer came later, to make the cylinder safe to pick up.",
+  "eras": [
+    { "id": "pump", "name": "Pumps and buckets", "from": -270, "to": 1714, "color": "#c49bff", "summary": "Water is the only weapon. A Greek engineer invents a pump that can throw a jet, and Rome organises fire watchmen." },
+    { "id": "bang", "name": "Powder and pearl ash", "from": 1715, "to": 1849, "color": "#ffb547", "summary": "Inventors try to burst a fire open with gunpowder and water, then build the first portable pressurised vessel." },
+    { "id": "chem", "name": "Chemistry in a can", "from": 1850, "to": 1903, "color": "#5ce1a9", "summary": "Gas generators, soda and acid, and thrown glass grenades make fire fighting a product that people can buy for the home." },
+    { "id": "agents", "name": "Foam, gas and powder", "from": 1904, "to": 1953, "color": "#8ef0ff", "summary": "Foam for oil, carbon tetrachloride for cars, carbon dioxide for electrical gear and dry chemical for almost everything. The first standards appear." },
+    { "id": "clean", "name": "Standards and clean-up", "from": 1954, "to": 2026, "color": "#ff7a59", "summary": "Halon works superbly and then turns out to harm the ozone layer. Test standards, ratings and colour codes make extinguishers easier to choose and to find." }
+  ],
+  "events": [
+    {
+      "year": -270, "date": "c. 270 BCE", "era": "pump", "art": "piston", "key": true,
+      "title": "A pump that throws a jet",
+      "who": "Ctesibius", "where": "Alexandria, Egypt", "country": "Egypt",
+      "text": "Ctesibius, a Greek engineer in Alexandria, is credited with the force pump. It had two cylinders, pistons and valves. None of his own writing survives, and we know the design from Vitruvius, Hero and Philo.",
+      "why": "A pump could send water onto a fire from a distance, and Roman pumps later served as fire engines.",
+      "box": "", "sources": [19]
+    },
+    {
+      "year": 6, "date": "AD 6", "era": "pump", "art": "person",
+      "title": "Rome sets up its fire watch",
+      "who": "Emperor Augustus", "where": "Rome", "country": "Italy",
+      "text": "Augustus formed the Vigiles, a corps of freed slaves. They used bucket chains, pumps and hooks, and pulled down buildings to stop the flames spreading. They also patrolled the streets at night.",
+      "why": "It is one of the first organised fire services on record.",
+      "box": "", "sources": [19]
+    },
+    {
+      "year": 1715, "date": "c. 1715", "era": "bang", "art": "drum",
+      "title": "A barrel that explodes the fire out",
+      "who": "Zacharias Greyl (also spelled Greiner)", "where": "Germany", "country": "Germany",
+      "text": "Greyl's device was a barrel of water with a tube of gunpowder inside. A fuse was lit and the barrel was rolled into the fire. Sources disagree on the date and on the size of the barrel, so treat both as approximate.",
+      "why": "It tried to combine the cooling of water with the blast of an explosion, an idea that Godfrey copied soon after.",
+      "box": "triangle", "sources": [3, 22]
+    },
+    {
+      "year": 1723, "date": "1723", "era": "bang", "art": "flame", "key": true,
+      "title": "The first patent for a fire extinguisher",
+      "who": "Ambrose Godfrey", "where": "London, England", "country": "England",
+      "text": "Godfrey, an English chemist, patented a cask of liquid with a pewter chamber of gunpowder inside. Fuses set off the powder, which burst the cask and scattered the liquid over the fire. It was thrown or rolled into a room. He also printed a pamphlet about the method in 1724.",
+      "why": "It is the earliest patented fire extinguisher usually named, although Greyl's barrel may be older.",
+      "box": "triangle", "sources": [0, 2]
+    },
+    {
+      "year": 1729, "date": "7 November 1729", "era": "bang", "art": "scroll",
+      "title": "A newspaper reports a fire stopped",
+      "who": "Bradley's Weekly Messenger", "where": "London, England", "country": "England",
+      "text": "A London newspaper said that Godfrey's device had stopped a fire in the city. Few such reports survive. The device needed gunpowder, which made it dangerous, and it did not replace water and labour.",
+      "why": "It is an early record of a chemical extinguisher used on a real fire.",
+      "box": "", "sources": [0]
+    },
+    {
+      "year": 1816, "date": "30 August 1816", "era": "bang", "art": "compressor", "key": true,
+      "title": "The Extincteur: a portable pressurised vessel",
+      "who": "George William Manby", "where": "England", "country": "England",
+      "text": "Manby's Extincteur was a copper vessel holding about 3 gallons (13.6 litres) of pearl-ash solution, forced out by compressed air. Officials watched a demonstration on 30 August 1816. Sources give 1813, 1816 or 1818 for the invention itself.",
+      "why": "A liquid pushed out by stored air is the plan of the cylinder on the wall today.",
+      "box": "anatomy", "sources": [1, 0]
+    },
+    {
+      "year": 1850, "date": "9 April 1850", "era": "chem", "art": "flask",
+      "title": "The Fire Annihilator",
+      "who": "William Henry Phillips", "where": "Brixton, London, England", "country": "England",
+      "text": "Phillips patented a machine that burned a charge to make carbon dioxide and other gases, then mixed them with steam and sent them at the fire. A letter of December 1849 says such machines were already being sold. Some demonstrations failed.",
+      "why": "It was the first attempt to smother a fire with a gas made on the spot.",
+      "box": "triangle", "sources": [4, 23]
+    },
+    {
+      "year": 1863, "date": "10 February 1863", "era": "chem", "art": "building",
+      "title": "Pipes in the walls",
+      "who": "Alanson Crane", "where": "Fortress Monroe, Virginia, USA", "country": "United States",
+      "text": "Crane received US patent 37,610 for water pipes that ran through a building's walls and ceilings. A valve outside let someone flood them. Hagley calls it the first US patent for a building fire system. Some collectors' sources link him to portable devices, which the patent record does not show.",
+      "why": "It points toward the fixed sprinkler, the other half of fire protection.",
+      "box": "", "sources": [5]
+    },
+    {
+      "year": 1866, "date": "1864 or 1866", "era": "chem", "art": "flask", "key": true,
+      "title": "Soda and acid make their own pressure",
+      "who": "François Carlier", "where": "France", "country": "France",
+      "text": "Carlier is credited with the first soda-acid extinguisher. Sodium bicarbonate in water met an acid and made carbon dioxide gas, which pushed the water out. Fire Engineering names Dr. F. Charlier and A. Vignon in Paris using the mix in 1864, so the exact date and inventor are uncertain.",
+      "why": "The extinguisher now made its own pressure, so it needed no pump or air.",
+      "box": "anatomy", "sources": [0, 3]
+    },
+    {
+      "year": 1868, "date": "1868", "era": "chem", "art": "building",
+      "title": "New York fits soda-acid in every station",
+      "who": "New York fire department", "where": "New York, USA", "country": "United States",
+      "text": "City records show soda-acid extinguishers were installed in all fire stations in 1868. Fire Engineering reports this only briefly.",
+      "why": "A chemical extinguisher was now routine kit, within about two years of the first patent.",
+      "box": "", "sources": [3]
+    },
+    {
+      "year": 1871, "date": "8 August 1871", "era": "chem", "art": "ball", "key": true,
+      "title": "The Harden Star grenade",
+      "who": "S. F. Harden and Co.", "where": "New York, USA", "country": "United States",
+      "text": "Harden's patent covers a glass bottle of fire-killing liquid. You threw it at the base of a fire and it broke. Many held salt water, and later ones held carbon tetrachloride. Victorian homes hung them in baskets by the hearth.",
+      "why": "It put a fire fighter in every home, even if the evidence for how well they worked is thin.",
+      "box": "classes", "sources": [7, 8, 24]
+    },
+    {
+      "year": 1872, "date": "26 March 1872", "era": "chem", "art": "tap",
+      "title": "Martin's improved system",
+      "who": "Thomas J. Martin", "where": "United States", "country": "United States",
+      "text": "Martin, born in 1842 and wounded at Shiloh, received US patent 125,063. It used pipes to carry water up and valves in the ceiling that worked as sprinklers. Popular lists often call it an extinguisher, and the details of his life rest on thin sources.",
+      "why": "It shows how many inventors worked on fire protection in the same years.",
+      "box": "", "sources": [6]
+    },
+    {
+      "year": 1881, "date": "1880 or 1881", "era": "chem", "art": "flask",
+      "title": "Granger's soda-acid in America",
+      "who": "Almon M. Granger", "where": "United States", "country": "United States",
+      "text": "Granger patented a soda-acid extinguisher in the US. A vial of sulfuric acid sat in the cylinder. A plunger or a lead stopper broke it open, and the acid reacted with bicarbonate solution. Sources give 1880 or 1881.",
+      "why": "It made the soda-acid can the standard red cylinder of the next 50 years.",
+      "box": "anatomy", "sources": [0]
+    },
+    {
+      "year": 1881, "date": "1881", "era": "chem", "art": "gear",
+      "title": "The cartridge-operated extinguisher",
+      "who": "Read and Campbell", "where": "England", "country": "England",
+      "text": "Read and Campbell of England invented an extinguisher that was set off by a gas cartridge. It used water or water-based solutions.",
+      "why": "A separate gas cartridge is the plan behind many dry-powder extinguishers a century later.",
+      "box": "anatomy", "sources": [0]
+    },
+    {
+      "year": 1885, "date": "8 June 1885", "era": "chem", "art": "person",
+      "title": "A grenade saves an inn",
+      "who": "An unnamed customer", "where": "High Wycombe, England", "country": "England",
+      "text": "An advertising testimonial praises Harden grenades for putting out a fire at the White Lion Inn. It is a seller's claim, not an independent test.",
+      "why": "It shows how the grenades were sold: as quick cures for home fires.",
+      "box": "", "sources": [8]
+    },
+    {
+      "year": 1904, "date": "1904", "era": "agents", "art": "waterdrop", "key": true,
+      "title": "Foam for oil fires",
+      "who": "Aleksandr Loran", "where": "Baku, Russian Empire (now Azerbaijan)", "country": "Azerbaijan",
+      "text": "Loran, a teacher in Baku, tested foam in 1902 and 1903 and patented it in 1904. He had seen oil fires that water could not stop. His first extinguisher mixed sodium bicarbonate and aluminium sulfate, with a foaming agent, when the unit was turned over. Spellings of his name vary.",
+      "why": "A blanket of foam floats on burning liquid and cuts the fire off from air.",
+      "box": "triangle", "sources": [9]
+    },
+    {
+      "year": 1910, "date": "c. 1910", "era": "agents", "art": "fuel", "key": true,
+      "title": "Carbon tetrachloride in the car",
+      "who": "The Pyrene Company", "where": "United States", "country": "United States",
+      "text": "Pyrene sold a small brass pump holding about a quart of carbon tetrachloride. It was ideal for petrol fires and electrical fires, and it sat in cars for decades. But heat turns the liquid into phosgene gas, and people died in confined spaces. Dates differ between sources, from about 1909 to 1912.",
+      "why": "The first agent that worked on live electrical and fuel fires also carried a hidden toxic risk, which is why agent choice matters.",
+      "box": "classes", "sources": [10, 11, 12, 25]
+    },
+    {
+      "year": 1914, "date": "1914", "era": "agents", "art": "oldcar",
+      "title": "Pyrene reaches Britain",
+      "who": "Wallace B. Phillips", "where": "London, England", "country": "England",
+      "text": "The American businessman Wallace B. Phillips set up The Pyrene Company Limited in London. It sold pump extinguishers. Later it won the London General Omnibus Company contract in 1924.",
+      "why": "The brass pump became a familiar sight in British vehicles and shops.",
+      "box": "", "sources": [10]
+    },
+    {
+      "year": 1917, "date": "1917", "era": "agents", "art": "boat",
+      "title": "Kidde buys a carbon dioxide patent",
+      "who": "Walter Kidde", "where": "United States", "country": "United States",
+      "text": "Kidde's company acquired the Rich patent for using carbon dioxide on large fires, mostly on ships. In 1918 it made a smoke detector and CO2 system for ships.",
+      "why": "It began the move from fighting fires with water to smothering them with gas.",
+      "box": "co2", "sources": [13]
+    },
+    {
+      "year": 1921, "date": "1921", "era": "agents", "art": "scroll", "key": true,
+      "title": "The first NFPA standard for portable extinguishers",
+      "who": "National Fire Protection Association", "where": "United States", "country": "United States",
+      "text": "NFPA adopted its first official standard on portable extinguishers in 1921, after committee work in 1918 and 1919. It was revised often in the following decades.",
+      "why": "Rules for where to put them and how to check them turned a gadget into a safety system.",
+      "box": "checks", "sources": [14]
+    },
+    {
+      "year": 1923, "date": "1923", "era": "agents", "art": "boat",
+      "title": "The Lux system for ships",
+      "who": "Kidde", "where": "United States", "country": "United States",
+      "text": "Kidde patented the Lux carbon dioxide system, installed on ships.",
+      "why": "It proved that carbon dioxide could be released fast enough to snuff a fire.",
+      "box": "co2", "sources": [13]
+    },
+    {
+      "year": 1924, "date": "1924", "era": "agents", "art": "snowflake", "key": true,
+      "title": "The first portable CO2 extinguisher",
+      "who": "Walter Kidde Company", "where": "United States", "country": "United States",
+      "text": "Kidde made the first portable carbon dioxide extinguisher in 1924 and installed the first built-in industrial CO2 system in 1925. A popular story says Bell Telephone asked for it for switchboards. That story is unconfirmed.",
+      "why": "Liquid CO2 leaves no residue and does not conduct electricity, so it suits delicate electrical gear.",
+      "box": "co2", "sources": [13, 0]
+    },
+    {
+      "year": 1928, "date": "1928", "era": "agents", "art": "wind",
+      "title": "Dry chemical powder",
+      "who": "DuGas", "where": "United States", "country": "United States",
+      "text": "DuGas introduced a cartridge-operated dry chemical extinguisher using treated sodium bicarbonate. Ansul later acquired the company.",
+      "why": "Powder knocks flames down quickly on liquid and electrical fires.",
+      "box": "classes", "sources": [0]
+    },
+    {
+      "year": 1949, "date": "1949", "era": "agents", "art": "block",
+      "title": "A cartridge drives dry agent",
+      "who": "Ansul", "where": "United States", "country": "United States",
+      "text": "Ansul introduced a pressurised extinguisher in which an external CO2 cartridge discharged dry agent.",
+      "why": "It became the model for the dry-powder extinguisher used across industry.",
+      "box": "anatomy", "sources": [0]
+    },
+    {
+      "year": 1951, "date": "1951", "era": "agents", "art": "palette",
+      "title": "Britain's red cylinders",
+      "who": "British fire services and makers", "where": "United Kingdom", "country": "United Kingdom",
+      "text": "In 1951 soda-acid, water-CO2 and foam extinguishers were generally red, with a mark for foam. Carbon tetrachloride units kept a brass or chrome finish. Over the next decades Britain adopted a colour for each agent.",
+      "why": "Colour was an early way to avoid grabbing the wrong agent.",
+      "box": "classes", "sources": [16]
+    },
+    {
+      "year": 1954, "date": "1954", "era": "clean", "art": "molecule", "key": false,
+      "title": "Halon 1301 becomes a product",
+      "who": "DuPont, with the US Army and Purdue", "where": "United States", "country": "United States",
+      "text": "Halon 1301 was developed in the late 1940s by the US Army with Purdue University. DuPont made it a product in 1954. It was used in total-flooding systems for aircraft, computer rooms and telephone exchanges.",
+      "why": "A halon stops the chain reaction in the flame and leaves no residue.",
+      "box": "triangle", "sources": [15, 0]
+    },
+    {
+      "year": 1965, "date": "1965", "era": "clean", "art": "scroll",
+      "title": "NFPA splits its extinguisher standard",
+      "who": "NFPA", "where": "United States", "country": "United States",
+      "text": "In 1965 the standard was divided into two texts, one on installation and one on maintenance and use. The 1974 edition merged them into one again.",
+      "why": "Care and checks were now treated as important as the hardware.",
+      "box": "checks", "sources": [14]
+    },
+    {
+      "year": 1987, "date": "1987", "era": "clean", "art": "earth",
+      "title": "The Montreal Protocol",
+      "who": "Nations of the world", "where": "Montreal, Canada", "country": "Canada",
+      "text": "The treaty targeted ozone-depleting chemicals, and halons were among them. Halon 1301 has an ozone depletion potential of 10, where CFC-11 is 1.",
+      "why": "It ended the main use of the best clean-gas extinguishing agent.",
+      "box": "", "sources": [0, 15]
+    },
+    {
+      "year": 1994, "date": "1 January 1994", "era": "clean", "art": "earth", "key": true,
+      "title": "New halon production stops",
+      "who": "Developed countries", "where": "Worldwide", "country": "International",
+      "text": "Developed countries stopped making new halon on 1 January 1994. Old halon was kept in banks and recycled for uses with no substitute, such as aircraft. Halons were the first ozone-depleting substance phased out under the Protocol.",
+      "why": "A treaty changed what could go into an extinguisher.",
+      "box": "", "sources": [17, 19, 0]
+    },
+    {
+      "year": 1994, "date": "November 1994", "era": "clean", "art": "burner",
+      "title": "A harder test for kitchen fires",
+      "who": "Underwriters Laboratories", "where": "United States", "country": "United States",
+      "text": "UL launched a new UL 300 test for commercial kitchens, with a deep fryer and a long pre-burn. Class K, for cooking oils and fats, had come in during the early 1990s. Dry chemical systems could not pass the new test.",
+      "why": "Vegetable oils burn hotter, so kitchens needed a wet chemical agent.",
+      "box": "classes", "sources": [18]
+    },
+    {
+      "year": 1996, "date": "1996 or 1997", "era": "clean", "art": "palette",
+      "title": "Britain goes back to red",
+      "who": "European standard EN 3", "where": "United Kingdom", "country": "United Kingdom",
+      "text": "Before the change the whole body was painted in a colour for its agent. With EN 3 the body became red and only a band or label shows the agent. The FIA gives 1996. Other sources give 1997.",
+      "why": "In smoke, an all-red cylinder is easier to find, and the band still tells you what is inside.",
+      "box": "classes", "sources": [16, 0]
+    },
+    {
+      "year": 2015, "date": "2015", "era": "clean", "art": "soundwave",
+      "title": "Putting out flames with sound",
+      "who": "George Mason University researchers", "where": "Virginia, USA", "country": "United States",
+      "text": "Researchers announced work on putting out small flames with low-frequency sound waves. It is still a laboratory idea.",
+      "why": "It shows the fire triangle is still being attacked in new ways.",
+      "box": "triangle", "sources": [0]
+    }
+  ],
+  "firsts": [
+    { "label": "Earliest widely cited patent for a fire extinguisher", "value": "1723", "who": "Ambrose Godfrey, England" },
+    { "label": "First portable pressurised extinguisher", "value": "1816", "who": "George William Manby, England" },
+    { "label": "First US patent for a building fire system", "value": "1863", "who": "Alanson Crane, USA" },
+    { "label": "First foam extinguisher", "value": "1904", "who": "Aleksandr Loran, Baku" },
+    { "label": "First portable CO2 extinguisher", "value": "1924", "who": "Walter Kidde Company, USA" },
+    { "label": "First ozone-depleting substance phased out under the Montreal Protocol", "value": "1994", "who": "Halons" }
+  ],
+  "people": [
+    { "name": "Ctesibius", "life": "active c. 270 BCE", "role": "Engineer", "from": "Alexandria, Egypt", "note": "Credited with the force pump, known only through later writers." },
+    { "name": "Zacharias Greyl", "life": "died 1720", "role": "Inventor", "from": "Germany", "note": "His gunpowder-and-water barrel inspired later English devices." },
+    { "name": "Ambrose Godfrey", "life": "active 1720s", "role": "Chemist", "from": "England", "note": "Patented the fire-extinguishing cask in 1723." },
+    { "name": "George William Manby", "life": "1765 – 1854", "role": "Soldier and inventor", "from": "England", "note": "Built the Extincteur and also the mortar line that carried ropes to wrecked ships." },
+    { "name": "William Henry Phillips", "life": "active 1840s", "role": "Inventor", "from": "England", "note": "Patented the Fire Annihilator, which made its own fire-smothering gas." },
+    { "name": "Thomas J. Martin", "life": "1842 – 1872", "role": "Inventor", "from": "United States", "note": "Patented a pipe-and-valve fire system in 1872, details of his life are thinly sourced." },
+    { "name": "Aleksandr Loran", "life": "c. 1849 – c. 1911", "role": "Teacher and inventor", "from": "Baku, Russian Empire", "note": "Invented chemical foam after watching oil fires that water could not stop." },
+    { "name": "Walter Kidde", "life": "born 1877", "role": "Engineer and company founder", "from": "United States", "note": "His company made the first portable CO2 extinguisher." }
+  ],
+  "series": [
+    {
+      "id": "litres", "title": "How much liquid the device held", "unit": "litres", "log": true, "after": "chem",
+      "caption": "From a 3-gallon copper vessel to a hand-thrown bottle to a quart-sized car pump.",
+      "points": [
+        { "year": 1816, "value": 13.6, "label": "Manby's Extincteur: 3 gallons (13.6 L)" },
+        { "year": 1871, "value": 0.24, "label": "Harden grenade: about half a pint" },
+        { "year": 1910, "value": 0.95, "label": "Pyrene pump: about one quart" }
+      ]
+    }
+  ],
+  "facts": [
+    "Godfrey's 1723 extinguisher was thrown or rolled into a burning room and burst with gunpowder.",
+    "A 2-A rating means the unit puts out Class A fires like about 2.5 gallons of water. A 10-B rating means about 10 square feet of burning liquid.",
+    "Carbon tetrachloride extinguishers sat in cars for about 60 years, but heat turns the liquid into phosgene gas.",
+    "Halon 1301 has an ozone depletion potential of 10, ten times CFC-11.",
+    "Victorian families hung glass fire grenades in baskets by the fireplace.",
+    "The fire triangle was later redrawn as a tetrahedron, with the chemical chain reaction as the fourth side."
+  ],
+  "sources": [
+    { "title": "Fire extinguisher", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fire_extinguisher" },
+    { "title": "George William Manby", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/George_William_Manby" },
+    { "title": "Ambrose Godfrey", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ambrose_Godfrey" },
+    { "title": "Copper & brass: the chemical engine era", "publisher": "Fire Engineering", "url": "https://www.fireengineering.com/leadership/copper-brass-the-chemical-engine-era/" },
+    { "title": "US patent 7,269: Apparatus for extinguishing fire (W. H. Phillips, 1850)", "publisher": "Google Patents", "url": "https://patents.google.com/patent/US7269A/en" },
+    { "title": "First US patent for a building fire extinguishing system (Alanson Crane, 1863)", "publisher": "Hagley Museum and Library", "url": "https://www.hagley.org/research/news/hagley-vault/first-us-patent-fire-extinguishing-system-buildings-was-granted-date" },
+    { "title": "Thomas J. Martin", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Thomas_J._Martin" },
+    { "title": "Harden Glass Fire Grenade, circa 1885", "publisher": "The Henry Ford", "url": "https://thehenryford.org/artifact/237258" },
+    { "title": "Victorian hand grenade fire extinguishers", "publisher": "US National Park Service", "url": "https://www.nps.gov/goga/victorian-hand-grenade-fire-extinguishers.htm" },
+    { "title": "Aleksandr Loran", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Aleksandr_Loran" },
+    { "title": "Pyrene", "publisher": "Grace's Guide to British Industrial History", "url": "https://www.gracesguide.co.uk/Pyrene" },
+    { "title": "Pyrene carbon tetrachloride extinguisher", "publisher": "Museums Victoria Collections", "url": "https://collections.museumsvictoria.com.au/items/387347" },
+    { "title": "Carbon tetrachloride", "publisher": "CAMEO, Museum of Fine Arts Boston", "url": "https://cameo.mfa.org/wiki/Carbon_tetrachloride" },
+    { "title": "Kidde history", "publisher": "Kidde UK", "url": "https://www.uk.kidde.com/about/history" },
+    { "title": "NFPA 10: Portable Fire Extinguishers (origin and development)", "publisher": "NFPA via ANSI Webstore", "url": "https://webstore.ansi.org/standards/nfpa/nfpa102007" },
+    { "title": "Halon 1301", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Halon_1301" },
+    { "title": "History of the FIA colours of extinguishers in Britain", "publisher": "Fire Industry Association", "url": "https://www.fia.uk.com/news/history-of-the-fia-colours-of-extinguishers-in-britain.html" },
+    { "title": "Cloud banks: airlines save halon", "publisher": "Environmental Health Perspectives (PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1367872/" },
+    { "title": "What is a Class K fire?", "publisher": "Amerex", "url": "https://www.amerex-fire.com/learning-center/flashpoint/what-is-a-class-k-fire" },
+    { "title": "History of firefighting", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_firefighting" },
+    { "title": "Fire triangle", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fire_triangle" },
+    { "title": "Fire extinguisher ratings explained (UL 711)", "publisher": "WC Safety", "url": "https://wcsafety.com/blogs/reference/fire-extinguisher-ratings-explained" },
+    { "title": "Zacharias Greyl, first fire extinguisher", "publisher": "CanonBase", "url": "https://canonbase.eu/wiki/Item:Q30696" },
+    { "title": "Adelaide Fire Brigade 1850 (Phillips Fire Annihilator, letter of 5 December 1849)", "publisher": "South Australian fire brigade history", "url": "https://www.fire-brigade.asn.au/about-sacfs-history/brigades/Adelaide/Adelaide Fire Brigade 1850.pdf" },
+    { "title": "Harden grenade record", "publisher": "Griffin Museum of Science and Industry", "url": "https://collections.griffinmsi.org/collections/23323" },
+    { "title": "The extinguisher that revolutionized home fire prevention", "publisher": "Orillia Museum of Art and History", "url": "https://orilliamatters.com/local-news/column-extinguisher-revolutionized-home-fire-prevention-9518233" }
+  ]
+}
